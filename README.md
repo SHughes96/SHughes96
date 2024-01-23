@@ -4,10 +4,7 @@ alongside proficiency in SQL, Git, and JIRA in Agile development environments.
 
 Other languages I have used during my career are: C++, JS, LabView
 
-For more information on myself and my instrumentation work, please check out:
-- [Oxford Profile](https://www.physics.ox.ac.uk/our-people/hughess)
-- [BBC WEAVE Article](https://www.bbc.co.uk/news/science-environment-62321537)
-- [Oxford WEAVE page](https://www.physics.ox.ac.uk/news/telescope-upgrade-could-unlock-secrets-universe)
+
 <!--
 **SHughes96/SHughes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +16,7 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: sarah.hughes@ast.cam.ac.uk
 - 😄 Pronouns: she/her
 
+ 🌌 For more information on my instrumentation work, please check out:
+- [My Oxford Profile](https://www.physics.ox.ac.uk/our-people/hughess)
+- [BBC WEAVE Article](https://www.bbc.co.uk/news/science-environment-62321537)
+- [Oxford WEAVE page](https://www.physics.ox.ac.uk/news/telescope-upgrade-could-unlock-secrets-universe)
