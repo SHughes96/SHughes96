@@ -11,7 +11,7 @@ Other languages I have used during my career are: C++, JS, LabView
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on building a Reinforcement Learning algorithm to improve the efficiency of robotic fibre positioners
-- 🌱 I’m currently learning JS, HTML, and CSS for front-end web development
+- 🌱 I’m enjoying learning JS, HTML, and CSS for front-end web development
 - 👯 I’m looking to collaborate on exciting projects with a focus on learning new ML methods
 - 📫 How to reach me: sarah.hughes@ast.cam.ac.uk
 - 😄 Pronouns: she/her
