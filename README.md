@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sarah, a Data Scientist with a background in astronomical instrumentation and pipeline development. I have significant experience in Python,
+I'm Sarah, a Postdoctoral Scientist with a background in astronomical instrumentation and pipeline development. I have significant experience in Python,
 alongside proficiency in SQL, Git, and JIRA in Agile development environments. 
 
 Other languages I have used during my career are: C++, JS, LabView
