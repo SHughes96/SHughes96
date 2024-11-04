@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sarah, a Postdoctoral Scientist with a background in astronomical instrumentation and pipeline development. I have significant experience in Python,
+I'm Sarah, a Postdoctoral Researcher with a background in astronomical instrumentation and pipeline development. I have significant experience in Python,
 alongside proficiency in SQL, Git, and JIRA in Agile development environments. 
 
 This page highlights some examples of work produced during my PhD and additional side projects, as most of my day-to-day work is version-controlled using private repositories due to collaboration data protection policies.
